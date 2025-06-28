@@ -1,4 +1,4 @@
-package com.nio_webflux_crud;
+package com.nio_webflux_crud.nio_text;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
